@@ -122,7 +122,7 @@ button {
 .section-light {
     background:
         linear-gradient(180deg, rgba(244, 248, 252, 0.98), rgba(233, 241, 249, 0.98));
-    color: #aab9cc
+    color: #34383d
 }
 
 .section-light::before,
